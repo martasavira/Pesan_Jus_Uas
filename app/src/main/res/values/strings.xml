@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pesan Jus</string>
+    <string name="menu_jus">Menu Jus</string>
+    <string name="really_long_string" />
+</resources>

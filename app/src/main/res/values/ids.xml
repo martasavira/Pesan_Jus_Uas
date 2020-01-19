@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="WhippedMangga_checkbox" type="id" />
+    <item name="Alpukat_checkbox" type="id" />
+    <item name="Jambu_checkbox" type="id" />
+    <item name="Apel_checkbox" type="id" />
+</resources>
